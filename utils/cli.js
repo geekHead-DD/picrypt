@@ -15,7 +15,7 @@ const flags = {
 	outputImageFileName: {
 		type: `string`,
 		desc: `The output image file name`,
-		alias: `i`
+		alias: `o`
 	},
 	outputKeyFileName: {
 		type: `string`,
